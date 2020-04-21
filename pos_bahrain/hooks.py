@@ -115,6 +115,7 @@ fixtures = [
                     "Payment Entry Reference-pb_invoice_date",
                     "Item Price-pb_conversion_factor",
                     "Item Price-pb_customer_name",
+                    "Item Price-min_qty",
                 ],
             ]
         ],
